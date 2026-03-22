@@ -10,3 +10,4 @@ start
 9
 10
 zmiana feature2
+zmiana feature1
